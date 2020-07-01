@@ -4,6 +4,7 @@
 This is the files and configuration for setting up the ASUS TUF FX504GE laptop using OpenCore. I assume no responsibility from use of the files.
 
 **Notes**
+
 I use the Hackintosh primarily for music works. Currently I don't have much free time to tinker and optimize. But this first commit is pretty much ready to go reliably. You're going to lose some battery life too compared to Windows (I did make an SSDT for better frequency vectors. Needs testing though).
 
 - MacOS Catalina 10.15.5
