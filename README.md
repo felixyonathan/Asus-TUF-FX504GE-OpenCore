@@ -5,7 +5,7 @@ This is the files and configuration for setting up the ASUS TUF FX504GE laptop u
 
 OpenCore EFI file and Shell included. Basically you could just download, copy, paste, modify few things, and use.
 
-I use the Hackintosh primarily for music works. Currently I don't have much free time to tinker and optimize. This is my second commit going through OpenCore 0.6.1. Note that you're going to see your battery perform worse too compared to Windows (I did make an SSDT for better frequency vectors suited to works I do). I do plug all the time when using MacOS though.
+I use the Hackintosh primarily for music works. Currently I don't have much free time to tinker and optimize. This is my second commit going through OpenCore 0.6.1. Note that you're going to see your battery performs worse compared to Windows (I did make an SSDT for better frequency vectors suited to works I do). I do plug all the time when using MacOS though.
 
 - MacOS Catalina 10.15.5
 - 128 GB SATA SSD: Mac, 240 GB M.2 SSD: Windows. Both have their EFI partition (separate bootloaders, less worries. Esc to choose bootloader, go to OpenCore and boot Mac).
