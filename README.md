@@ -7,7 +7,8 @@ OpenCore EFI file and Shell included. Basically you could just download, copy, p
 
 I use the Hackintosh primarily for music works. Currently I don't have much free time to tinker and optimize. This is my second commit going through OpenCore 0.6.1. Note that you're going to see your battery performs worse compared to Windows (I did make an SSDT for better frequency vectors suited to works I do). I do plug all the time when using MacOS though.
 
-- MacOS Catalina 10.15.5
+
+- MacOS Catalina 10.15.6 (10.15.4-10.15.6)
 - 128 GB SATA SSD: Mac, 240 GB M.2 SSD: Windows. Both have their EFI partition (separate bootloaders, less worries. Esc to choose bootloader, go to OpenCore and boot Mac).
 - I only use OpenCore to boot Mac. Easiest and works for me. Windows often modifies the EFI partition when updating. I know there's a way to prevent this. I'm just using the simplest solution.
 - APFS partition.
