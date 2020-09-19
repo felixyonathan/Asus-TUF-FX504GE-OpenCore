@@ -27,3 +27,7 @@ I use the Hackintosh primarily for music works. Currently I don't have much free
 - No onboard Wifi (going to use a compatible one when I got some spare time). Using a USB TP-Link one.
 - Bluetooth not working (no wifi, no bluetooth).
 - After shutdown process, the laptop will hang. Need to use power button to force turning off. It's fine though for now.
+- Still a lot to do (https://dortania.github.io/OpenCore-Post-Install/)
+
+![Image of CPU](https://github.com/felixyonathan/Asus-TUF-FX504GE-OpenCore/raw/master/CPU.png)
+![Image of OpenCL](https://github.com/felixyonathan/Asus-TUF-FX504GE-OpenCore/raw/master/OpenCL.png)
