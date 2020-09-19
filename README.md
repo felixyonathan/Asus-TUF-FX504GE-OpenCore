@@ -15,8 +15,9 @@ I use the Hackintosh primarily for music works. Currently I don't have much free
 - Please take care of your own MLB, Serial Number, and UUID.
 
 **Few Highlights**
-- ASUS Fn Keys (Few keys mapped incorrectly. No plan to fix yet).
+- ASUS Fn Keys (brightness keys mapped incorrectly. No plan to fix).
 - Trackpad not working (in progress. Using a USB mouse for now).
+- Audio: ALC255 (layout 3)
 
 **BIOS Settings**
 - Secure Boot: Disabled
